@@ -1,4 +1,4 @@
-# 🦇 Proyecto: Bat-OS Kali Linux Cyberdeck
+# 🦇 Proyecto: Bat-OS Kali Linux
 
 Guía paso a paso para transformar el entorno de Kali Linux en una interfaz de pentesting moderna, minimalista y con estética de *Batman/Gotham*, optimizada para pantallas pequeñas de cyberdecks.
 
