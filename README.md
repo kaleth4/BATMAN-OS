@@ -9,7 +9,7 @@ Guía paso a paso para transformar el entorno de Kali Linux en una interfaz de p
 ### Instalar Oh My Zsh
 Si tu instalación de Kali aún usa la terminal por defecto, instala el framework base:
 bash
-sh -c "$(curl -fsSL https://githubusercontent.com)"
+sh -c "$(curl -fsSL"
 
 
 ### Instalar Plugins de Productividad (Pentesting Moderno)
