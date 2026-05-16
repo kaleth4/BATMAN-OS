@@ -1,5 +1,5 @@
 # 🦇 **Bat-OS Kali Linux**
-*Transforma tu Kali Linux en una estación de pentesting con estética *Gotham City*, minimalista y optimizada para cyberdecks.*
+*Transforma tu Kali Linux en una estación de pentesting con estética *Gotham City*, minimalista y optimizada para cybersecurity.*
 <img width="1376" height="768" alt="image_36732166" src="https://github.com/user-attachments/assets/d4e9c47e-6be1-434f-bd13-ba8a40a55bd3" />
 
 ---
