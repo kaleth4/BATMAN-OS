@@ -1,0 +1,17 @@
+#!/usr/bin/env dash
+
+if bspc query -N -n focused.floating > /dev/null; then
+    step=20
+else
+    step=100
+fi
+
+case "$1" in
+    west) x="-$step"; y=0; ;;
+    east) x="$step"; y=0; ;;
+    north) x=0; y="-$step"; ;;
+    south) x=0; y="$step"; ;;
+esac
+
+bspc node -z bottom 0 "$y" || bspc node -z top 0 "$y"
+bspc node -z right "$x" 0 || bspc node -z left "$x" 0
